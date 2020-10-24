@@ -1,0 +1,26 @@
+#nav-header {
+  background-color: gray;
+  border-radius: 0;
+}
+
+.navbar-brand h1 {
+  margin: 0;
+  padding: 0;
+  line-height: .75;
+  color: black;
+  text-align: left;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus{
+  text-decoration: none;
+}
+
+.row  {
+  width: 100%;
+}
+
+#main-chicken, #main-sushi, #main-beef{
+  border: 1px solid black;
+  margin: 10px;
+  float: left;
+}
